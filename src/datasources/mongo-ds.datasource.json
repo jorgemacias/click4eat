@@ -1,0 +1,10 @@
+{
+  "name": "mongoDs",
+  "connector": "mongodb",
+  "url": "mongodb://jorge:a1b2c3d4e5@ds029117.mlab.com:29117/click4eat",
+  "host": "ds029117.mlab.com",
+  "port": 29117,
+  "user": "jorge",
+  "password": "a1b2c3d4e5",
+  "database": "click4eat"
+}
